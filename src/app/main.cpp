@@ -2,6 +2,6 @@
 #include "mainwindow.hpp"
 
 int main() {
-    printf("%d", testFunc());
+    printf("Hello, World!");
     return 0;
 }
